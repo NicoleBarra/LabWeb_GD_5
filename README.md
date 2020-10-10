@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# IMPORTANT!
+
+## PLEASE WHEN RUNNING THE BACKEND SERVER MAKE THE LOCALHOST PORT TO 8000.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
